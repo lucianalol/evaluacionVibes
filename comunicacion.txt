@@ -1,0 +1,3 @@
+luciana: crear proyecto en github y compartirlo a los colaboradores, crear archivo txt + front
+axel: hace el back
+nico: hace base de datos
