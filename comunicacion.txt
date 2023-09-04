@@ -1,6 +1,6 @@
 Nico: Diseño de base de datos
 Luci: front
-
+Axel: Backend.
 * Base de datos creada (vibesdb), junto al archivo de conexion realizado (conexion.php)
-
+* Cracion de registro de persona desde el backend
 *formulario completo mas diseño 
