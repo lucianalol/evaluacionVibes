@@ -2,3 +2,5 @@ Nico: Diseño de base de datos
 Luci: front
 
 * Base de datos creada (vibesdb), junto al archivo de conexion realizado (conexion.php)
+
+*formulario completo mas diseño 
