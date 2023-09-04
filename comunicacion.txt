@@ -1,0 +1,4 @@
+Nico: Diseño de base de datos
+
+
+* Base de datos creada (vibesdb), junto al archivo de conexion realizado (conexion.php)
